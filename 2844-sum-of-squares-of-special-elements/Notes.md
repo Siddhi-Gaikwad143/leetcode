@@ -1,0 +1,1 @@
+<h2>sum-of-squares-of-special-elements Notes</h2><hr>[ Time taken: 1d 15hrs 8m 20s ]
